@@ -1,0 +1,10 @@
+2021-07-09T15:59:18 | INFO | mmf : Logging to: ./save/train.log
+2021-07-09T15:59:18 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-09T15:59:18 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-09T15:59:18 | INFO | mmf.utils.general : CUDA Device 0 is: Quadro RTX 6000
+2021-07-09T15:59:18 | INFO | mmf_cli.run : Using seed 18465168
+2021-07-09T15:59:18 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-09T15:59:18 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-09T15:59:18 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-09T15:59:18 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-09T15:59:18 | INFO | mmf.trainers.mmf_trainer : Loading model

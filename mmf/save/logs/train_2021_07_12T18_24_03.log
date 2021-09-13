@@ -1,0 +1,6 @@
+2021-07-12T18:24:03 | INFO | mmf : Logging to: ./save/train.log
+2021-07-12T18:24:03 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/hateful_memes/configs/mmbt/defaults.yaml', 'model=mmbt', 'dataset=hateful_memes', 'run_type=train_val'])
+2021-07-12T18:24:03 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-12T18:24:03 | INFO | mmf.utils.general : CUDA Device 0 is: Quadro RTX 6000
+2021-07-12T18:24:03 | INFO | mmf_cli.run : Using seed 3894517
+2021-07-12T18:24:03 | INFO | mmf.trainers.mmf_trainer : Loading datasets

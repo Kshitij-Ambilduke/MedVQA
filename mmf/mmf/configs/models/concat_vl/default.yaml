@@ -1,0 +1,30 @@
+model_config:
+  concat_vl:
+    num_classes: 1552
+    dropout: 0.25
+    image_encoder:
+      type: resnet152
+      params:
+        pretrained: true
+        pool_type: avg
+        num_output_features: 1
+    text_encoder:
+      type: fasttext_sentence_vector
+      params:
+        module: linear
+        in_dim: 300
+        out_dim: 512
+    fusion:
+      params:
+        # Visual Dim (2048) + Text Dim (300)
+        # Follow the API of nn.Linear
+        in_features: 2560
+        out_features: 1024
+    losses:
+    - cross_entropy
+    classifier:
+      type: mlp
+      params:
+        in_dim: 1024
+        out_dim: 1552
+        num_layers: 3

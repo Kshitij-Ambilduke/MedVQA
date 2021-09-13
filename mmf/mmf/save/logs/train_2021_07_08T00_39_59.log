@@ -1,0 +1,74 @@
+2021-07-08T00:39:59 | INFO | mmf : Logging to: ./save/train.log
+2021-07-08T00:39:59 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-08T00:39:59 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-08T00:39:59 | INFO | mmf.utils.general : CUDA Device 0 is: Quadro RTX 6000
+2021-07-08T00:39:59 | INFO | mmf_cli.run : Using seed 59358573
+2021-07-08T00:39:59 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-08T00:39:59 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T00:39:59 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T00:39:59 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T00:39:59 | INFO | mmf.trainers.mmf_trainer : Loading model
+2021-07-08T00:40:02 | INFO | mmf.trainers.mmf_trainer : Loading optimizer
+2021-07-08T00:40:02 | INFO | mmf.trainers.mmf_trainer : Loading metrics
+2021-07-08T00:40:02 | WARNING | mmf : Key coco_caption_processor is not present in registry, returning default value of None
+2021-07-08T00:40:02 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T00:40:02 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T00:40:02 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T00:40:02 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T00:40:02 | INFO | mmf.trainers.mmf_trainer : ===== Model =====
+2021-07-08T00:40:02 | INFO | mmf.trainers.mmf_trainer : BUTD(
+  (word_embedding): Embedding(1197, 300)
+  (image_feature_encoders): ModuleList(
+    (0): FinetuneFasterRcnnFpnFc7(
+      (lc): Linear(in_features=2048, out_features=2048, bias=True)
+    )
+  )
+  (image_feature_embeddings_list): ModuleList(
+    (0): ModuleList(
+      (0): ImageFeatureEmbedding(
+        (image_attention_model): AttentionLayer(
+          (module): TopDownAttention(
+            (combination_layer): ModalCombineLayer(
+              (module): TopDownAttentionLSTM(
+                (fa_image): Linear(in_features=2048, out_features=1024, bias=True)
+                (fa_hidden): Linear(in_features=1024, out_features=1024, bias=True)
+                (top_down_lstm): LSTMCell(3372, 1024)
+                (relu): ReLU()
+                (dropout): Dropout(p=0.5, inplace=False)
+              )
+            )
+            (transform): TransformLayer(
+              (module): LinearTransform(
+                (lc): Linear(in_features=1024, out_features=1, bias=True)
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+  (classifier): ClassifierLayer(
+    (module): LanguageDecoder(
+      (language_lstm): LSTMCell(3072, 1024)
+      (fc): Linear(in_features=1024, out_features=1197, bias=True)
+      (dropout): Dropout(p=0.5, inplace=False)
+    )
+  )
+  (losses): Losses(
+    (losses): ModuleList(
+      (0): MMFLoss(
+        (loss_criterion): CaptionCrossEntropyLoss()
+      )
+    )
+  )
+)
+2021-07-08T00:40:02 | INFO | mmf.utils.general : Total Parameters: 43734040. Trained Parameters: 43734040
+2021-07-08T00:40:02 | INFO | mmf.trainers.core.training_loop : Starting training...

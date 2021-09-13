@@ -1,0 +1,54 @@
+dataset_config:
+  hateful_memes:
+    data_dir: /home/roboticslab/Documents/MED-VQA/dataset/med-vqa-data
+    depth_first: false
+    fast_read: false
+    use_images: true
+    images:
+      train:
+      - hateful_memes
+      val:
+      - hateful_memes
+      test:
+      - hateful_memes
+    annotations:
+      train:
+      - hateful_memes/train.jsonl
+      val:
+      - hateful_memes/dev_unseen.jsonl
+      test:
+      - hateful_memes/test_unseen.jsonl
+    max_features: 100
+    processors:
+      text_processor:
+        type: fasttext_sentence_vector
+        params:
+          max_length: null
+          model_file: wiki.en.bin
+
+optimizer:
+  type: adam_w
+  params:
+    lr: 5e-5
+    eps: 1e-8
+
+scheduler:
+  type: warmup_linear
+  params:
+    num_warmup_steps: 2000
+    num_training_steps: ${training.max_updates}
+
+evaluation:
+  metrics:
+  - accuracy
+  # - binary_f1
+  # - roc_auc
+
+training:
+  batch_size: 32
+  lr_scheduler: true
+  max_updates: 3000
+  find_unused_parameters: true
+  early_stop:
+    criteria: hateful_memes/roc_auc
+    minimize: false

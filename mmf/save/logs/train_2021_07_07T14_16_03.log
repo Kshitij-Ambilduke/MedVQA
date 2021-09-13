@@ -1,0 +1,5 @@
+2021-07-07T14:16:03 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T14:16:03 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/m4c/configs/textvqa/defaults.yaml', 'datasets=textvqa', 'model=m4c', 'run_type=train_val'])
+2021-07-07T14:16:03 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T14:16:03 | INFO | mmf_cli.run : Using seed 3834041
+2021-07-07T14:16:03 | INFO | mmf.trainers.mmf_trainer : Loading datasets

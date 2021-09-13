@@ -1,0 +1,195 @@
+config_version: 1.0
+training:
+  trainer: mmf
+  seed: 3771186
+  experiment_name: run
+  max_updates: 50000
+  max_epochs: null
+  log_interval: 100
+  logger_level: info
+  log_format: simple
+  log_detailed_config: false
+  should_not_log: false
+  colored_logs: true
+  tensorboard: false
+  batch_size: 256
+  batch_size_per_device: null
+  update_frequency: 1
+  num_workers: 7
+  fast_read: false
+  dataset_size_proportional_sampling: true
+  pin_memory: false
+  checkpoint_interval: 1000
+  evaluation_interval: 1000
+  clip_gradients: true
+  clip_norm_mode: all
+  early_stop:
+    enabled: false
+    patience: 4000
+    criteria: coco/caption_bleu4
+    minimize: false
+  lr_scheduler: true
+  lr_steps:
+  - 15000
+  - 25000
+  - 35000
+  - 45000
+  lr_ratio: 0.1
+  use_warmup: true
+  warmup_factor: 0.2
+  warmup_iterations: 1000
+  device: cuda
+  local_rank: null
+  verbose_dump: false
+  find_unused_parameters: false
+  evaluate_metrics: false
+  detect_anomaly: false
+  fp16: false
+  max_grad_l2_norm: 0.25
+  task_size_proportional_sampling: true
+trainer:
+  type: lightning
+  params:
+    gpus: 1
+    num_nodes: 1
+    precision: 32
+    deterministic: false
+    benchmark: false
+    max_steps: 22000
+    max_epochs: null
+    gradient_clip_val: 0.0
+    num_sanity_val_steps: 0
+    checkpoint_callback: false
+    accumulate_grad_batches: 1
+    val_check_interval: 1000
+    log_every_n_steps: 100
+    logger: false
+    limit_val_batches: 1.0
+    progress_bar_refresh_rate: 0
+evaluation:
+  metrics:
+  - caption_bleu4
+  use_cpu: false
+  predict: false
+  predict_file_format: json
+  reporter:
+    type: file
+    params: {}
+model_config:
+  butd:
+    model_data_dir: /home/roboticslab/.cache/torch/mmf/data
+    losses:
+    - type: caption_cross_entropy
+    classifier:
+      type: language_decoder
+      params:
+        dropout: 0.5
+        hidden_dim: 1024
+        feature_dim: 2048
+        fc_bias_init: 0
+    image_feature_embeddings:
+    - modal_combine:
+        type: top_down_attention_lstm
+        params:
+          dropout: 0.5
+          hidden_dim: 1024
+          attention_dim: 1024
+      normalization: softmax
+      transform:
+        type: linear
+        params:
+          out_dim: 1
+    image_feature_dim: 2048
+    embedding_dim: 300
+    image_feature_encodings:
+    - type: finetune_faster_rcnn_fpn_fc7
+      params:
+        bias_file: models/detectron.defaults/fc7_b.pkl
+        weights_file: models/detectron.defaults/fc7_w.pkl
+        model_data_dir: /home/roboticslab/.cache/torch/mmf/data
+    inference:
+      type: greedy
+    model: butd
+dataset_config:
+  vqarad:
+    data_dir: /home/roboticslab/Documents/MED-VQA/dataset/med-vqa-data/
+    data_folder: vqa_rad
+    build_attributes:
+      min_count: 1
+      split_regex: ' '
+      keep:
+      - ;
+      - ','
+      remove:
+      - '?'
+      - .
+    processors:
+      text_processor:
+        type: vocab
+        params:
+          max_length: 10
+          vocab:
+            type: random
+            vocab_file: vocabs/vqarad_question_vocab.txt
+        preprocessor:
+          type: simple_sentence
+          params: {}
+      answer_processor:
+        type: vqa_answer
+        params:
+          vocab_file: vocabs/vqarad_answer_vocab.txt
+          preprocessor:
+            type: simple_word
+            params: {}
+          num_answers: 1
+datasets: vqarad
+model: butd
+config: projects/butd/configs/coco/defaults.yaml
+run_type: train_val
+optimizer:
+  allow_unused_parameters: false
+  enable_state_sharding: false
+  type: Adamax
+  params:
+    eps: 1.0e-08
+    lr: 0.01
+    weight_decay: 0
+scheduler: {}
+env:
+  cache_dir: /home/roboticslab/.cache/torch/mmf
+  dataset_zoo: configs/zoo/datasets.yaml
+  model_zoo: configs/zoo/models.yaml
+  data_dir: /home/roboticslab/.cache/torch/mmf/data
+  save_dir: ./save
+  log_dir: ''
+  report_dir: ''
+  tensorboard_logdir: ''
+  user_dir: ''
+distributed:
+  init_method: null
+  rank: 0
+  port: -1
+  backend: nccl
+  world_size: 1
+  no_spawn: false
+checkpoint:
+  resume: false
+  resume_file: null
+  resume_best: false
+  resume_pretrained: false
+  resume_zoo: null
+  zoo_config_override: false
+  pretrained_state_mapping: {}
+  max_to_keep: -1
+  save_git_details: true
+  reset:
+    all: false
+    optimizer: false
+    counts: false
+    fp16_scaler: false
+multitasking:
+  enabled: true
+  type: size_proportional
+  params: {}
+start_rank: 0
+device_id: 0

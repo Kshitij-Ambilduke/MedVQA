@@ -1,0 +1,13 @@
+2021-07-16T19:36:35 | INFO | mmf : Logging to: ./save/train.log
+2021-07-16T19:36:35 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=/home/roboticslab/Documents/MED-VQA/Configs/hm_dataset_config.yaml', 'model=concat_vl', 'dataset=hateful_memes'])
+2021-07-16T19:36:35 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-16T19:36:35 | INFO | mmf.utils.general : CUDA Device 0 is: Quadro RTX 6000
+2021-07-16T19:36:35 | INFO | mmf_cli.run : Using seed 35523446
+2021-07-16T19:36:35 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-16T19:36:35 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/mmf/mmf/datasets/processors/processors.py:446: UserWarning: No model file present at /home/roboticslab/.cache/torch/mmf/wiki.en.bin.
+  warnings.warn(f"No model file present at {model_file}.")
+
+2021-07-16T19:36:35 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/mmf/mmf/datasets/processors/processors.py:446: UserWarning: No model file present at /home/roboticslab/.cache/torch/mmf/wiki.en.bin.
+  warnings.warn(f"No model file present at {model_file}.")
+
+2021-07-16T19:36:35 | INFO | mmf.datasets.processors.processors : Downloading FastText bin

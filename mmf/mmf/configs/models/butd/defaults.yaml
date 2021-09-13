@@ -1,0 +1,21 @@
+model_config:
+  butd: &butd
+    model_data_dir: ${env.data_dir}
+    losses:
+    - type: caption_cross_entropy
+    classifier:
+      type: mlp
+      params:
+        dropout: 0.5
+        in_dim: 1024
+        out_dim:  2 #yes or no z
+
+        num_layers: 0
+       
+    image_feature_embeddings:
+    - modal_combine:
+        type: top_down_attention_lstm
+        params:
+          dropout: 0.5
+          hidden_dim: 1024
+          attention_dim: 1024

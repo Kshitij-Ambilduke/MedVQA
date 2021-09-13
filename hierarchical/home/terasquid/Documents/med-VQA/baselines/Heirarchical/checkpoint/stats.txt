@@ -1,0 +1,19 @@
+main.py
+main.py
+main.py
+main.py
+main.py
+main.py
+main.py
+main.py
+main.py
+main.py
+main.py
+main.py
+main.py
+main.py
+{"epoch": 0, "loss": 4.1143059730529785, "time": 57}
+main.py
+{"epoch": 0, "loss": 4.191230297088623, "time": 56}
+main.py
+{"epoch": 0, "loss": 4.197848796844482, "time": 56}

@@ -1,0 +1,6 @@
+2021-07-07T18:10:35 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T18:10:35 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T18:10:35 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T18:10:35 | INFO | mmf_cli.run : Using seed 35106247
+2021-07-07T18:10:35 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T18:10:35 | INFO | mmf.datasets.builders.vqarad.builder : VQARAD dataset is already present. Skipping download.

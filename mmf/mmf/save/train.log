@@ -1,0 +1,1384 @@
+2021-07-07T17:44:12 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T17:44:12 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T17:44:12 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T17:44:12 | INFO | mmf_cli.run : Using seed 12889486
+2021-07-07T17:44:12 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T17:44:48 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T17:44:48 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T17:44:48 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T17:44:48 | INFO | mmf_cli.run : Using seed 48068915
+2021-07-07T17:44:48 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T17:44:48 | INFO | mmf.datasets.builders.vqarad.builder : Donwloading the VQARAD dataset now
+2021-07-07T17:49:19 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T17:49:19 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T17:49:19 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T17:49:19 | INFO | mmf_cli.run : Using seed 19878843
+2021-07-07T17:49:19 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T17:49:19 | INFO | mmf.datasets.builders.vqarad.builder : Donwloading the VQARAD dataset now
+2021-07-07T17:50:42 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T17:50:42 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T17:50:42 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T17:50:42 | INFO | mmf_cli.run : Using seed 42932080
+2021-07-07T17:50:42 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T17:50:42 | INFO | mmf.datasets.builders.vqarad.builder : Donwloading the VQARAD dataset now
+2021-07-07T17:51:35 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T17:51:35 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T17:51:35 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T17:51:35 | INFO | mmf_cli.run : Using seed 35258065
+2021-07-07T17:51:35 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T17:51:35 | INFO | mmf.datasets.builders.vqarad.builder : Donwloading the VQARAD dataset now
+2021-07-07T17:52:30 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T17:52:30 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T17:52:30 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T17:52:30 | INFO | mmf_cli.run : Using seed 30984322
+2021-07-07T17:52:30 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T17:52:30 | INFO | mmf.datasets.builders.vqarad.builder : Donwloading the VQARAD dataset now
+2021-07-07T17:53:02 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T17:53:02 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T17:53:02 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T17:53:02 | INFO | mmf_cli.run : Using seed 2973366
+2021-07-07T17:53:02 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T17:53:02 | INFO | mmf.datasets.builders.vqarad.builder : Donwloading the VQARAD dataset now
+2021-07-07T17:54:26 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T17:54:26 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T17:54:26 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T17:54:26 | INFO | mmf_cli.run : Using seed 27007179
+2021-07-07T17:54:26 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T17:54:26 | INFO | mmf.datasets.builders.vqarad.builder : Donwloading the VQARAD dataset now
+2021-07-07T17:54:29 | INFO | mmf.datasets.builders.vqarad.builder : Downloaded. Extractingn now. This can take time.
+2021-07-07T17:56:28 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T17:56:28 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T17:56:28 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T17:56:28 | INFO | mmf_cli.run : Using seed 28892044
+2021-07-07T17:56:28 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T17:56:28 | INFO | mmf.datasets.builders.vqarad.builder : VQARAD dataset is already present. Skipping download.
+2021-07-07T18:09:32 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T18:09:32 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T18:09:32 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T18:09:32 | INFO | mmf_cli.run : Using seed 32893054
+2021-07-07T18:09:32 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T18:09:32 | INFO | mmf.datasets.builders.vqarad.builder : VQARAD dataset is already present. Skipping download.
+2021-07-07T18:10:35 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T18:10:35 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T18:10:35 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T18:10:35 | INFO | mmf_cli.run : Using seed 35106247
+2021-07-07T18:10:35 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T18:10:35 | INFO | mmf.datasets.builders.vqarad.builder : VQARAD dataset is already present. Skipping download.
+2021-07-07T18:11:23 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T18:11:23 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T18:11:23 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T18:11:23 | INFO | mmf_cli.run : Using seed 23653979
+2021-07-07T18:11:23 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T18:11:23 | INFO | mmf.datasets.builders.vqarad.builder : VQARAD dataset is already present. Skipping download.
+2021-07-07T18:17:21 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T18:17:21 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T18:17:21 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T18:17:21 | INFO | mmf_cli.run : Using seed 22013369
+2021-07-07T18:17:21 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T18:17:21 | INFO | mmf.datasets.builders.vqarad.builder : VQARAD dataset is already present. Skipping download.
+2021-07-07T18:26:36 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T18:26:36 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T18:26:36 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T18:26:36 | INFO | mmf_cli.run : Using seed 36494720
+2021-07-07T18:26:36 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T18:26:36 | INFO | mmf.datasets.builders.vqarad.builder : VQARAD dataset is already present. Skipping download.
+2021-07-07T18:32:23 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T18:32:23 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T18:32:23 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T18:32:23 | INFO | mmf_cli.run : Using seed 23591420
+2021-07-07T18:32:23 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T18:32:23 | INFO | mmf.datasets.builders.vqarad.builder : VQARAD dataset is already present. Skipping download.
+2021-07-07T18:33:42 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T18:33:42 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T18:33:42 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T18:33:42 | INFO | mmf_cli.run : Using seed 42411665
+2021-07-07T18:33:42 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T18:33:42 | INFO | mmf.datasets.builders.vqarad.builder : VQARAD dataset is already present. Skipping download.
+2021-07-07T18:34:05 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T18:34:05 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T18:34:05 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T18:34:05 | INFO | mmf_cli.run : Using seed 5494158
+2021-07-07T18:34:05 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T18:34:05 | INFO | mmf.datasets.builders.vqarad.builder : VQARAD dataset is already present. Skipping download.
+2021-07-07T18:52:53 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T18:52:53 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T18:52:53 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T18:52:53 | INFO | mmf_cli.run : Using seed 54027485
+2021-07-07T18:52:53 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T18:53:25 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T18:53:25 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T18:53:25 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T18:53:25 | INFO | mmf_cli.run : Using seed 25356988
+2021-07-07T18:53:25 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T19:04:13 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T19:04:13 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=clevr', 'model=butd'])
+2021-07-07T19:04:13 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T19:04:13 | INFO | mmf_cli.run : Using seed 13263141
+2021-07-07T19:04:13 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T19:04:13 | INFO | mmf.datasets.builders.clevr.builder : Downloading the CLEVR dataset now
+2021-07-07T19:05:31 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T19:05:31 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=clevr', 'model=butd'])
+2021-07-07T19:05:31 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T19:05:31 | INFO | mmf_cli.run : Using seed 31906324
+2021-07-07T19:05:31 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T19:05:31 | INFO | mmf.datasets.builders.clevr.builder : Downloading the CLEVR dataset now
+2021-07-07T19:14:25 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T19:14:25 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T19:14:25 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T19:14:25 | INFO | mmf_cli.run : Using seed 25962062
+2021-07-07T19:14:25 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T19:16:59 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T19:16:59 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T19:16:59 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T19:16:59 | INFO | mmf_cli.run : Using seed 59578305
+2021-07-07T19:16:59 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T19:18:01 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T19:18:01 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T19:18:01 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T19:18:01 | INFO | mmf_cli.run : Using seed 1278905
+2021-07-07T19:18:01 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T19:19:10 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T19:19:10 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T19:19:10 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T19:19:10 | INFO | mmf_cli.run : Using seed 10948298
+2021-07-07T19:19:10 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T19:19:58 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T19:19:58 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T19:19:58 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T19:19:58 | INFO | mmf_cli.run : Using seed 58789508
+2021-07-07T19:19:58 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T19:20:36 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T19:20:36 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T19:20:36 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T19:20:36 | INFO | mmf_cli.run : Using seed 36341161
+2021-07-07T19:20:36 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T19:27:38 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T19:27:38 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T19:27:38 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T19:27:38 | INFO | mmf_cli.run : Using seed 38700567
+2021-07-07T19:27:38 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T19:32:16 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T19:32:16 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T19:32:16 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T19:32:16 | INFO | mmf_cli.run : Using seed 16156852
+2021-07-07T19:32:16 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T19:33:23 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T19:33:23 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T19:33:23 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T19:33:23 | INFO | mmf_cli.run : Using seed 23178472
+2021-07-07T19:33:23 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T19:33:46 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T19:33:46 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T19:33:46 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T19:33:46 | INFO | mmf_cli.run : Using seed 46190763
+2021-07-07T19:33:46 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-07T19:33:46 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-07T19:33:46 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-07T19:33:46 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-07T19:33:46 | INFO | mmf.trainers.mmf_trainer : Loading model
+2021-07-07T19:33:49 | INFO | mmf.trainers.mmf_trainer : Loading optimizer
+2021-07-07T19:33:49 | INFO | mmf.trainers.mmf_trainer : Loading metrics
+2021-07-07T19:33:59 | WARNING | mmf : Key coco_caption_processor is not present in registry, returning default value of None
+2021-07-07T19:33:59 | WARNING | py.warnings : /home/terasquid/mmf/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-07T19:33:59 | WARNING | py.warnings : /home/terasquid/mmf/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-07T19:33:59 | WARNING | py.warnings : /home/terasquid/mmf/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-07T19:33:59 | WARNING | py.warnings : /home/terasquid/mmf/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-07T19:33:59 | INFO | mmf.trainers.mmf_trainer : ===== Model =====
+2021-07-07T19:33:59 | INFO | mmf.trainers.mmf_trainer : BUTD(
+  (word_embedding): Embedding(1197, 300)
+  (image_feature_encoders): ModuleList(
+    (0): FinetuneFasterRcnnFpnFc7(
+      (lc): Linear(in_features=2048, out_features=2048, bias=True)
+    )
+  )
+  (image_feature_embeddings_list): ModuleList(
+    (0): ModuleList(
+      (0): ImageFeatureEmbedding(
+        (image_attention_model): AttentionLayer(
+          (module): TopDownAttention(
+            (combination_layer): ModalCombineLayer(
+              (module): TopDownAttentionLSTM(
+                (fa_image): Linear(in_features=2048, out_features=1024, bias=True)
+                (fa_hidden): Linear(in_features=1024, out_features=1024, bias=True)
+                (top_down_lstm): LSTMCell(3372, 1024)
+                (relu): ReLU()
+                (dropout): Dropout(p=0.5, inplace=False)
+              )
+            )
+            (transform): TransformLayer(
+              (module): LinearTransform(
+                (lc): Linear(in_features=1024, out_features=1, bias=True)
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+  (classifier): ClassifierLayer(
+    (module): LanguageDecoder(
+      (language_lstm): LSTMCell(3072, 1024)
+      (fc): Linear(in_features=1024, out_features=1197, bias=True)
+      (dropout): Dropout(p=0.5, inplace=False)
+    )
+  )
+  (losses): Losses(
+    (losses): ModuleList(
+      (0): MMFLoss(
+        (loss_criterion): CaptionCrossEntropyLoss()
+      )
+    )
+  )
+)
+2021-07-07T19:33:59 | INFO | mmf.utils.general : Total Parameters: 43734040. Trained Parameters: 43734040
+2021-07-07T19:33:59 | INFO | mmf.trainers.core.training_loop : Starting training...
+2021-07-08T00:39:59 | INFO | mmf : Logging to: ./save/train.log
+2021-07-08T00:39:59 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-08T00:39:59 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-08T00:39:59 | INFO | mmf.utils.general : CUDA Device 0 is: Quadro RTX 6000
+2021-07-08T00:39:59 | INFO | mmf_cli.run : Using seed 59358573
+2021-07-08T00:39:59 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-08T00:39:59 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T00:39:59 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T00:39:59 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T00:39:59 | INFO | mmf.trainers.mmf_trainer : Loading model
+2021-07-08T00:40:02 | INFO | mmf.trainers.mmf_trainer : Loading optimizer
+2021-07-08T00:40:02 | INFO | mmf.trainers.mmf_trainer : Loading metrics
+2021-07-08T00:40:02 | WARNING | mmf : Key coco_caption_processor is not present in registry, returning default value of None
+2021-07-08T00:40:02 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T00:40:02 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T00:40:02 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T00:40:02 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T00:40:02 | INFO | mmf.trainers.mmf_trainer : ===== Model =====
+2021-07-08T00:40:02 | INFO | mmf.trainers.mmf_trainer : BUTD(
+  (word_embedding): Embedding(1197, 300)
+  (image_feature_encoders): ModuleList(
+    (0): FinetuneFasterRcnnFpnFc7(
+      (lc): Linear(in_features=2048, out_features=2048, bias=True)
+    )
+  )
+  (image_feature_embeddings_list): ModuleList(
+    (0): ModuleList(
+      (0): ImageFeatureEmbedding(
+        (image_attention_model): AttentionLayer(
+          (module): TopDownAttention(
+            (combination_layer): ModalCombineLayer(
+              (module): TopDownAttentionLSTM(
+                (fa_image): Linear(in_features=2048, out_features=1024, bias=True)
+                (fa_hidden): Linear(in_features=1024, out_features=1024, bias=True)
+                (top_down_lstm): LSTMCell(3372, 1024)
+                (relu): ReLU()
+                (dropout): Dropout(p=0.5, inplace=False)
+              )
+            )
+            (transform): TransformLayer(
+              (module): LinearTransform(
+                (lc): Linear(in_features=1024, out_features=1, bias=True)
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+  (classifier): ClassifierLayer(
+    (module): LanguageDecoder(
+      (language_lstm): LSTMCell(3072, 1024)
+      (fc): Linear(in_features=1024, out_features=1197, bias=True)
+      (dropout): Dropout(p=0.5, inplace=False)
+    )
+  )
+  (losses): Losses(
+    (losses): ModuleList(
+      (0): MMFLoss(
+        (loss_criterion): CaptionCrossEntropyLoss()
+      )
+    )
+  )
+)
+2021-07-08T00:40:02 | INFO | mmf.utils.general : Total Parameters: 43734040. Trained Parameters: 43734040
+2021-07-08T00:40:02 | INFO | mmf.trainers.core.training_loop : Starting training...
+2021-07-08T00:57:20 | INFO | mmf : Logging to: ./save/train.log
+2021-07-08T00:57:20 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/m4c/configs/textvqa/defaults.yaml', 'datasets=textvqa', 'model=m4c', 'run_type=train_val'])
+2021-07-08T00:57:20 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-08T00:57:20 | INFO | mmf.utils.general : CUDA Device 0 is: Quadro RTX 6000
+2021-07-08T00:57:20 | INFO | mmf_cli.run : Using seed 21017622
+2021-07-08T00:57:20 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-08T00:58:35 | INFO | mmf : Logging to: ./save/train.log
+2021-07-08T00:58:35 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=coco', 'model=butd', 'run_type=train_val'])
+2021-07-08T00:58:35 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-08T00:58:35 | INFO | mmf.utils.general : CUDA Device 0 is: Quadro RTX 6000
+2021-07-08T00:58:35 | INFO | mmf_cli.run : Using seed 35442502
+2021-07-08T00:58:35 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-08T00:58:59 | INFO | mmf : Logging to: ./save/train.log
+2021-07-08T00:58:59 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd', 'run_type=train_val'])
+2021-07-08T00:58:59 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-08T00:58:59 | INFO | mmf.utils.general : CUDA Device 0 is: Quadro RTX 6000
+2021-07-08T00:58:59 | INFO | mmf_cli.run : Using seed 59104158
+2021-07-08T00:58:59 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-08T00:58:59 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T00:58:59 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T00:58:59 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T00:58:59 | INFO | mmf.trainers.mmf_trainer : Loading model
+2021-07-08T00:59:02 | INFO | mmf.trainers.mmf_trainer : Loading optimizer
+2021-07-08T00:59:02 | INFO | mmf.trainers.mmf_trainer : Loading metrics
+2021-07-08T00:59:02 | WARNING | mmf : Key coco_caption_processor is not present in registry, returning default value of None
+2021-07-08T00:59:02 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T00:59:02 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T00:59:02 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T00:59:02 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T00:59:02 | INFO | mmf.trainers.mmf_trainer : ===== Model =====
+2021-07-08T00:59:02 | INFO | mmf.trainers.mmf_trainer : BUTD(
+  (word_embedding): Embedding(1197, 300)
+  (image_feature_encoders): ModuleList(
+    (0): FinetuneFasterRcnnFpnFc7(
+      (lc): Linear(in_features=2048, out_features=2048, bias=True)
+    )
+  )
+  (image_feature_embeddings_list): ModuleList(
+    (0): ModuleList(
+      (0): ImageFeatureEmbedding(
+        (image_attention_model): AttentionLayer(
+          (module): TopDownAttention(
+            (combination_layer): ModalCombineLayer(
+              (module): TopDownAttentionLSTM(
+                (fa_image): Linear(in_features=2048, out_features=1024, bias=True)
+                (fa_hidden): Linear(in_features=1024, out_features=1024, bias=True)
+                (top_down_lstm): LSTMCell(3372, 1024)
+                (relu): ReLU()
+                (dropout): Dropout(p=0.5, inplace=False)
+              )
+            )
+            (transform): TransformLayer(
+              (module): LinearTransform(
+                (lc): Linear(in_features=1024, out_features=1, bias=True)
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+  (classifier): ClassifierLayer(
+    (module): LanguageDecoder(
+      (language_lstm): LSTMCell(3072, 1024)
+      (fc): Linear(in_features=1024, out_features=1197, bias=True)
+      (dropout): Dropout(p=0.5, inplace=False)
+    )
+  )
+  (losses): Losses(
+    (losses): ModuleList(
+      (0): MMFLoss(
+        (loss_criterion): CaptionCrossEntropyLoss()
+      )
+    )
+  )
+)
+2021-07-08T00:59:02 | INFO | mmf.utils.general : Total Parameters: 43734040. Trained Parameters: 43734040
+2021-07-08T00:59:02 | INFO | mmf.trainers.core.training_loop : Starting training...
+2021-07-08T01:24:31 | INFO | mmf : Logging to: ./save/train.log
+2021-07-08T01:24:31 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd', 'run_type=train_val'])
+2021-07-08T01:24:31 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-08T01:24:31 | INFO | mmf.utils.general : CUDA Device 0 is: Quadro RTX 6000
+2021-07-08T01:24:31 | INFO | mmf_cli.run : Using seed 31895447
+2021-07-08T01:24:31 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-08T01:24:31 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T01:24:31 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T01:24:31 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T01:24:31 | INFO | mmf.trainers.mmf_trainer : Loading model
+2021-07-08T01:24:34 | INFO | mmf.trainers.mmf_trainer : Loading optimizer
+2021-07-08T01:24:34 | INFO | mmf.trainers.mmf_trainer : Loading metrics
+2021-07-08T01:24:35 | WARNING | mmf : Key coco_caption_processor is not present in registry, returning default value of None
+2021-07-08T01:24:35 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T01:24:35 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T01:24:35 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T01:24:35 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T01:24:35 | INFO | mmf.trainers.mmf_trainer : ===== Model =====
+2021-07-08T01:24:35 | INFO | mmf.trainers.mmf_trainer : BUTD(
+  (word_embedding): Embedding(1197, 300)
+  (image_feature_encoders): ModuleList(
+    (0): FinetuneFasterRcnnFpnFc7(
+      (lc): Linear(in_features=2048, out_features=2048, bias=True)
+    )
+  )
+  (image_feature_embeddings_list): ModuleList(
+    (0): ModuleList(
+      (0): ImageFeatureEmbedding(
+        (image_attention_model): AttentionLayer(
+          (module): TopDownAttention(
+            (combination_layer): ModalCombineLayer(
+              (module): TopDownAttentionLSTM(
+                (fa_image): Linear(in_features=2048, out_features=1024, bias=True)
+                (fa_hidden): Linear(in_features=1024, out_features=1024, bias=True)
+                (top_down_lstm): LSTMCell(3372, 1024)
+                (relu): ReLU()
+                (dropout): Dropout(p=0.5, inplace=False)
+              )
+            )
+            (transform): TransformLayer(
+              (module): LinearTransform(
+                (lc): Linear(in_features=1024, out_features=1, bias=True)
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+  (classifier): ClassifierLayer(
+    (module): LanguageDecoder(
+      (language_lstm): LSTMCell(3072, 1024)
+      (fc): Linear(in_features=1024, out_features=1197, bias=True)
+      (dropout): Dropout(p=0.5, inplace=False)
+    )
+  )
+  (losses): Losses(
+    (losses): ModuleList(
+      (0): MMFLoss(
+        (loss_criterion): CaptionCrossEntropyLoss()
+      )
+    )
+  )
+)
+2021-07-08T01:24:35 | INFO | mmf.utils.general : Total Parameters: 43734040. Trained Parameters: 43734040
+2021-07-08T01:24:35 | INFO | mmf.trainers.core.training_loop : Starting training...
+2021-07-08T01:37:06 | INFO | mmf : Logging to: ./save/train.log
+2021-07-08T01:37:06 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd', 'run_type=train_val'])
+2021-07-08T01:37:06 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-08T01:37:06 | INFO | mmf.utils.general : CUDA Device 0 is: Quadro RTX 6000
+2021-07-08T01:37:06 | INFO | mmf_cli.run : Using seed 7023537
+2021-07-08T01:37:06 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-08T01:37:06 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T01:37:06 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T01:37:06 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T01:37:06 | INFO | mmf.trainers.mmf_trainer : Loading model
+2021-07-08T01:37:10 | INFO | mmf.trainers.mmf_trainer : Loading optimizer
+2021-07-08T01:37:10 | INFO | mmf.trainers.mmf_trainer : Loading metrics
+2021-07-08T01:37:10 | WARNING | mmf : Key coco_caption_processor is not present in registry, returning default value of None
+2021-07-08T01:37:10 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T01:37:10 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T01:37:10 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T01:37:10 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T01:37:10 | INFO | mmf.trainers.mmf_trainer : ===== Model =====
+2021-07-08T01:37:10 | INFO | mmf.trainers.mmf_trainer : BUTD(
+  (word_embedding): Embedding(1197, 300)
+  (image_feature_encoders): ModuleList(
+    (0): FinetuneFasterRcnnFpnFc7(
+      (lc): Linear(in_features=2048, out_features=2048, bias=True)
+    )
+  )
+  (image_feature_embeddings_list): ModuleList(
+    (0): ModuleList(
+      (0): ImageFeatureEmbedding(
+        (image_attention_model): AttentionLayer(
+          (module): TopDownAttention(
+            (combination_layer): ModalCombineLayer(
+              (module): TopDownAttentionLSTM(
+                (fa_image): Linear(in_features=2048, out_features=1024, bias=True)
+                (fa_hidden): Linear(in_features=1024, out_features=1024, bias=True)
+                (top_down_lstm): LSTMCell(3372, 1024)
+                (relu): ReLU()
+                (dropout): Dropout(p=0.5, inplace=False)
+              )
+            )
+            (transform): TransformLayer(
+              (module): LinearTransform(
+                (lc): Linear(in_features=1024, out_features=1, bias=True)
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+  (classifier): ClassifierLayer(
+    (module): LanguageDecoder(
+      (language_lstm): LSTMCell(3072, 1024)
+      (fc): Linear(in_features=1024, out_features=1197, bias=True)
+      (dropout): Dropout(p=0.5, inplace=False)
+    )
+  )
+  (losses): Losses(
+    (losses): ModuleList(
+      (0): MMFLoss(
+        (loss_criterion): CaptionCrossEntropyLoss()
+      )
+    )
+  )
+)
+2021-07-08T01:37:10 | INFO | mmf.utils.general : Total Parameters: 43734040. Trained Parameters: 43734040
+2021-07-08T01:37:10 | INFO | mmf.trainers.core.training_loop : Starting training...
+2021-07-08T01:45:02 | INFO | mmf : Logging to: ./save/train.log
+2021-07-08T01:45:02 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd', 'run_type=train_val'])
+2021-07-08T01:45:02 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-08T01:45:02 | INFO | mmf.utils.general : CUDA Device 0 is: Quadro RTX 6000
+2021-07-08T01:45:02 | INFO | mmf_cli.run : Using seed 2345195
+2021-07-08T01:45:02 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-08T01:45:02 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T01:45:02 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T01:45:02 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T01:45:02 | INFO | mmf.trainers.mmf_trainer : Loading model
+2021-07-08T01:45:05 | INFO | mmf.trainers.mmf_trainer : Loading optimizer
+2021-07-08T01:45:05 | INFO | mmf.trainers.mmf_trainer : Loading metrics
+2021-07-08T01:45:05 | WARNING | mmf : Key coco_caption_processor is not present in registry, returning default value of None
+2021-07-08T01:45:05 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T01:45:05 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T01:45:05 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T01:45:05 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T01:45:05 | INFO | mmf.trainers.mmf_trainer : ===== Model =====
+2021-07-08T01:45:05 | INFO | mmf.trainers.mmf_trainer : BUTD(
+  (word_embedding): Embedding(1197, 300)
+  (image_feature_encoders): ModuleList(
+    (0): FinetuneFasterRcnnFpnFc7(
+      (lc): Linear(in_features=2048, out_features=2048, bias=True)
+    )
+  )
+  (image_feature_embeddings_list): ModuleList(
+    (0): ModuleList(
+      (0): ImageFeatureEmbedding(
+        (image_attention_model): AttentionLayer(
+          (module): TopDownAttention(
+            (combination_layer): ModalCombineLayer(
+              (module): TopDownAttentionLSTM(
+                (fa_image): Linear(in_features=2048, out_features=1024, bias=True)
+                (fa_hidden): Linear(in_features=1024, out_features=1024, bias=True)
+                (top_down_lstm): LSTMCell(3372, 1024)
+                (relu): ReLU()
+                (dropout): Dropout(p=0.5, inplace=False)
+              )
+            )
+            (transform): TransformLayer(
+              (module): LinearTransform(
+                (lc): Linear(in_features=1024, out_features=1, bias=True)
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+  (classifier): ClassifierLayer(
+    (module): LanguageDecoder(
+      (language_lstm): LSTMCell(3072, 1024)
+      (fc): Linear(in_features=1024, out_features=1197, bias=True)
+      (dropout): Dropout(p=0.5, inplace=False)
+    )
+  )
+  (losses): Losses(
+    (losses): ModuleList(
+      (0): MMFLoss(
+        (loss_criterion): CaptionCrossEntropyLoss()
+      )
+    )
+  )
+)
+2021-07-08T01:45:05 | INFO | mmf.utils.general : Total Parameters: 43734040. Trained Parameters: 43734040
+2021-07-08T01:45:05 | INFO | mmf.trainers.core.training_loop : Starting training...
+2021-07-08T01:45:44 | INFO | mmf : Logging to: ./save/train.log
+2021-07-08T01:45:44 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd', 'run_type=train_val'])
+2021-07-08T01:45:44 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-08T01:45:44 | INFO | mmf.utils.general : CUDA Device 0 is: Quadro RTX 6000
+2021-07-08T01:45:44 | INFO | mmf_cli.run : Using seed 44335751
+2021-07-08T01:45:44 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-08T01:45:44 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T01:45:44 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T01:45:44 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T01:45:44 | INFO | mmf.trainers.mmf_trainer : Loading model
+2021-07-08T01:45:47 | INFO | mmf.trainers.mmf_trainer : Loading optimizer
+2021-07-08T01:45:47 | INFO | mmf.trainers.mmf_trainer : Loading metrics
+2021-07-08T01:45:47 | WARNING | mmf : Key coco_caption_processor is not present in registry, returning default value of None
+2021-07-08T01:45:47 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T01:45:47 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T01:45:47 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T01:45:47 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T01:45:47 | INFO | mmf.trainers.mmf_trainer : ===== Model =====
+2021-07-08T01:45:47 | INFO | mmf.trainers.mmf_trainer : BUTD(
+  (word_embedding): Embedding(1197, 300)
+  (image_feature_encoders): ModuleList(
+    (0): FinetuneFasterRcnnFpnFc7(
+      (lc): Linear(in_features=2048, out_features=2048, bias=True)
+    )
+  )
+  (image_feature_embeddings_list): ModuleList(
+    (0): ModuleList(
+      (0): ImageFeatureEmbedding(
+        (image_attention_model): AttentionLayer(
+          (module): TopDownAttention(
+            (combination_layer): ModalCombineLayer(
+              (module): TopDownAttentionLSTM(
+                (fa_image): Linear(in_features=2048, out_features=1024, bias=True)
+                (fa_hidden): Linear(in_features=1024, out_features=1024, bias=True)
+                (top_down_lstm): LSTMCell(3372, 1024)
+                (relu): ReLU()
+                (dropout): Dropout(p=0.5, inplace=False)
+              )
+            )
+            (transform): TransformLayer(
+              (module): LinearTransform(
+                (lc): Linear(in_features=1024, out_features=1, bias=True)
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+  (classifier): ClassifierLayer(
+    (module): LanguageDecoder(
+      (language_lstm): LSTMCell(3072, 1024)
+      (fc): Linear(in_features=1024, out_features=1197, bias=True)
+      (dropout): Dropout(p=0.5, inplace=False)
+    )
+  )
+  (losses): Losses(
+    (losses): ModuleList(
+      (0): MMFLoss(
+        (loss_criterion): CaptionCrossEntropyLoss()
+      )
+    )
+  )
+)
+2021-07-08T01:45:47 | INFO | mmf.utils.general : Total Parameters: 43734040. Trained Parameters: 43734040
+2021-07-08T01:45:47 | INFO | mmf.trainers.core.training_loop : Starting training...
+2021-07-08T01:50:35 | INFO | mmf : Logging to: ./save/train.log
+2021-07-08T01:50:35 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd', 'run_type=train_val'])
+2021-07-08T01:50:35 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-08T01:50:35 | INFO | mmf.utils.general : CUDA Device 0 is: Quadro RTX 6000
+2021-07-08T01:50:35 | INFO | mmf_cli.run : Using seed 35316067
+2021-07-08T01:50:35 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-08T01:50:35 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T01:50:35 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T01:50:35 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T01:50:35 | INFO | mmf.trainers.mmf_trainer : Loading model
+2021-07-08T01:50:38 | INFO | mmf.trainers.mmf_trainer : Loading optimizer
+2021-07-08T01:50:38 | INFO | mmf.trainers.mmf_trainer : Loading metrics
+2021-07-08T01:50:38 | WARNING | mmf : Key coco_caption_processor is not present in registry, returning default value of None
+2021-07-08T01:50:38 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T01:50:38 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T01:50:38 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T01:50:38 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T01:50:38 | INFO | mmf.trainers.mmf_trainer : ===== Model =====
+2021-07-08T01:50:38 | INFO | mmf.trainers.mmf_trainer : BUTD(
+  (word_embedding): Embedding(1197, 300)
+  (image_feature_encoders): ModuleList(
+    (0): FinetuneFasterRcnnFpnFc7(
+      (lc): Linear(in_features=2048, out_features=2048, bias=True)
+    )
+  )
+  (image_feature_embeddings_list): ModuleList(
+    (0): ModuleList(
+      (0): ImageFeatureEmbedding(
+        (image_attention_model): AttentionLayer(
+          (module): TopDownAttention(
+            (combination_layer): ModalCombineLayer(
+              (module): TopDownAttentionLSTM(
+                (fa_image): Linear(in_features=2048, out_features=1024, bias=True)
+                (fa_hidden): Linear(in_features=1024, out_features=1024, bias=True)
+                (top_down_lstm): LSTMCell(3372, 1024)
+                (relu): ReLU()
+                (dropout): Dropout(p=0.5, inplace=False)
+              )
+            )
+            (transform): TransformLayer(
+              (module): LinearTransform(
+                (lc): Linear(in_features=1024, out_features=1, bias=True)
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+  (classifier): ClassifierLayer(
+    (module): LanguageDecoder(
+      (language_lstm): LSTMCell(3072, 1024)
+      (fc): Linear(in_features=1024, out_features=1197, bias=True)
+      (dropout): Dropout(p=0.5, inplace=False)
+    )
+  )
+  (losses): Losses(
+    (losses): ModuleList(
+      (0): MMFLoss(
+        (loss_criterion): CaptionCrossEntropyLoss()
+      )
+    )
+  )
+)
+2021-07-08T01:50:38 | INFO | mmf.utils.general : Total Parameters: 43734040. Trained Parameters: 43734040
+2021-07-08T01:50:38 | INFO | mmf.trainers.core.training_loop : Starting training...
+2021-07-08T01:58:12 | INFO | mmf : Logging to: ./save/train.log
+2021-07-08T01:58:12 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd', 'run_type=train_val'])
+2021-07-08T01:58:12 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-08T01:58:12 | INFO | mmf.utils.general : CUDA Device 0 is: Quadro RTX 6000
+2021-07-08T01:58:12 | INFO | mmf_cli.run : Using seed 12469259
+2021-07-08T01:58:12 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-08T01:58:12 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T01:58:12 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T01:58:12 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T01:58:12 | INFO | mmf.trainers.mmf_trainer : Loading model
+2021-07-08T01:58:15 | INFO | mmf.trainers.mmf_trainer : Loading optimizer
+2021-07-08T01:58:15 | INFO | mmf.trainers.mmf_trainer : Loading metrics
+2021-07-08T01:58:15 | WARNING | mmf : Key coco_caption_processor is not present in registry, returning default value of None
+2021-07-08T01:58:15 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T01:58:15 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T01:58:15 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T01:58:15 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T01:58:15 | INFO | mmf.trainers.mmf_trainer : ===== Model =====
+2021-07-08T01:58:15 | INFO | mmf.trainers.mmf_trainer : BUTD(
+  (word_embedding): Embedding(1197, 300)
+  (image_feature_encoders): ModuleList(
+    (0): FinetuneFasterRcnnFpnFc7(
+      (lc): Linear(in_features=2048, out_features=2048, bias=True)
+    )
+  )
+  (image_feature_embeddings_list): ModuleList(
+    (0): ModuleList(
+      (0): ImageFeatureEmbedding(
+        (image_attention_model): AttentionLayer(
+          (module): TopDownAttention(
+            (combination_layer): ModalCombineLayer(
+              (module): TopDownAttentionLSTM(
+                (fa_image): Linear(in_features=2048, out_features=1024, bias=True)
+                (fa_hidden): Linear(in_features=1024, out_features=1024, bias=True)
+                (top_down_lstm): LSTMCell(3372, 1024)
+                (relu): ReLU()
+                (dropout): Dropout(p=0.5, inplace=False)
+              )
+            )
+            (transform): TransformLayer(
+              (module): LinearTransform(
+                (lc): Linear(in_features=1024, out_features=1, bias=True)
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+  (classifier): ClassifierLayer(
+    (module): LanguageDecoder(
+      (language_lstm): LSTMCell(3072, 1024)
+      (fc): Linear(in_features=1024, out_features=1197, bias=True)
+      (dropout): Dropout(p=0.5, inplace=False)
+    )
+  )
+  (losses): Losses(
+    (losses): ModuleList(
+      (0): MMFLoss(
+        (loss_criterion): CaptionCrossEntropyLoss()
+      )
+    )
+  )
+)
+2021-07-08T01:58:15 | INFO | mmf.utils.general : Total Parameters: 43734040. Trained Parameters: 43734040
+2021-07-08T01:58:15 | INFO | mmf.trainers.core.training_loop : Starting training...
+2021-07-08T02:00:05 | INFO | mmf : Logging to: ./save/train.log
+2021-07-08T02:00:05 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd', 'run_type=train_val'])
+2021-07-08T02:00:05 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-08T02:00:05 | INFO | mmf.utils.general : CUDA Device 0 is: Quadro RTX 6000
+2021-07-08T02:00:05 | INFO | mmf_cli.run : Using seed 6014876
+2021-07-08T02:00:05 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-08T02:00:05 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T02:00:05 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T02:00:05 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T02:00:05 | INFO | mmf.trainers.mmf_trainer : Loading model
+2021-07-08T02:00:09 | INFO | mmf.trainers.mmf_trainer : Loading optimizer
+2021-07-08T02:00:09 | INFO | mmf.trainers.mmf_trainer : Loading metrics
+2021-07-08T02:00:09 | WARNING | mmf : Key coco_caption_processor is not present in registry, returning default value of None
+2021-07-08T02:00:09 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T02:00:09 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T02:00:09 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T02:00:09 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T02:00:09 | INFO | mmf.trainers.mmf_trainer : ===== Model =====
+2021-07-08T02:00:09 | INFO | mmf.trainers.mmf_trainer : BUTD(
+  (word_embedding): Embedding(1197, 300)
+  (image_feature_encoders): ModuleList(
+    (0): FinetuneFasterRcnnFpnFc7(
+      (lc): Linear(in_features=2048, out_features=2048, bias=True)
+    )
+  )
+  (image_feature_embeddings_list): ModuleList(
+    (0): ModuleList(
+      (0): ImageFeatureEmbedding(
+        (image_attention_model): AttentionLayer(
+          (module): TopDownAttention(
+            (combination_layer): ModalCombineLayer(
+              (module): TopDownAttentionLSTM(
+                (fa_image): Linear(in_features=2048, out_features=1024, bias=True)
+                (fa_hidden): Linear(in_features=1024, out_features=1024, bias=True)
+                (top_down_lstm): LSTMCell(3372, 1024)
+                (relu): ReLU()
+                (dropout): Dropout(p=0.5, inplace=False)
+              )
+            )
+            (transform): TransformLayer(
+              (module): LinearTransform(
+                (lc): Linear(in_features=1024, out_features=1, bias=True)
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+  (classifier): ClassifierLayer(
+    (module): LanguageDecoder(
+      (language_lstm): LSTMCell(3072, 1024)
+      (fc): Linear(in_features=1024, out_features=1197, bias=True)
+      (dropout): Dropout(p=0.5, inplace=False)
+    )
+  )
+  (losses): Losses(
+    (losses): ModuleList(
+      (0): MMFLoss(
+        (loss_criterion): CaptionCrossEntropyLoss()
+      )
+    )
+  )
+)
+2021-07-08T02:00:09 | INFO | mmf.utils.general : Total Parameters: 43734040. Trained Parameters: 43734040
+2021-07-08T02:00:09 | INFO | mmf.trainers.core.training_loop : Starting training...
+2021-07-08T02:02:18 | INFO | mmf : Logging to: ./save/train.log
+2021-07-08T02:02:18 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd', 'run_type=train_val'])
+2021-07-08T02:02:18 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-08T02:02:18 | INFO | mmf.utils.general : CUDA Device 0 is: Quadro RTX 6000
+2021-07-08T02:02:18 | INFO | mmf_cli.run : Using seed 18325079
+2021-07-08T02:02:18 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-08T02:02:18 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T02:02:18 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T02:02:18 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T02:02:18 | INFO | mmf.trainers.mmf_trainer : Loading model
+2021-07-08T02:02:21 | INFO | mmf.trainers.mmf_trainer : Loading optimizer
+2021-07-08T02:02:21 | INFO | mmf.trainers.mmf_trainer : Loading metrics
+2021-07-08T02:02:21 | WARNING | mmf : Key coco_caption_processor is not present in registry, returning default value of None
+2021-07-08T02:02:21 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T02:02:21 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T02:02:21 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T02:02:21 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T02:02:21 | INFO | mmf.trainers.mmf_trainer : ===== Model =====
+2021-07-08T02:02:21 | INFO | mmf.trainers.mmf_trainer : BUTD(
+  (word_embedding): Embedding(1197, 300)
+  (image_feature_encoders): ModuleList(
+    (0): FinetuneFasterRcnnFpnFc7(
+      (lc): Linear(in_features=2048, out_features=2048, bias=True)
+    )
+  )
+  (image_feature_embeddings_list): ModuleList(
+    (0): ModuleList(
+      (0): ImageFeatureEmbedding(
+        (image_attention_model): AttentionLayer(
+          (module): TopDownAttention(
+            (combination_layer): ModalCombineLayer(
+              (module): TopDownAttentionLSTM(
+                (fa_image): Linear(in_features=2048, out_features=1024, bias=True)
+                (fa_hidden): Linear(in_features=1024, out_features=1024, bias=True)
+                (top_down_lstm): LSTMCell(3372, 1024)
+                (relu): ReLU()
+                (dropout): Dropout(p=0.5, inplace=False)
+              )
+            )
+            (transform): TransformLayer(
+              (module): LinearTransform(
+                (lc): Linear(in_features=1024, out_features=1, bias=True)
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+  (classifier): ClassifierLayer(
+    (module): LanguageDecoder(
+      (language_lstm): LSTMCell(3072, 1024)
+      (fc): Linear(in_features=1024, out_features=1197, bias=True)
+      (dropout): Dropout(p=0.5, inplace=False)
+    )
+  )
+  (losses): Losses(
+    (losses): ModuleList(
+      (0): MMFLoss(
+        (loss_criterion): CaptionCrossEntropyLoss()
+      )
+    )
+  )
+)
+2021-07-08T02:02:21 | INFO | mmf.utils.general : Total Parameters: 43734040. Trained Parameters: 43734040
+2021-07-08T02:02:21 | INFO | mmf.trainers.core.training_loop : Starting training...
+2021-07-08T02:02:39 | INFO | mmf : Logging to: ./save/train.log
+2021-07-08T02:02:39 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd', 'run_type=train_val'])
+2021-07-08T02:02:39 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-08T02:02:39 | INFO | mmf.utils.general : CUDA Device 0 is: Quadro RTX 6000
+2021-07-08T02:02:39 | INFO | mmf_cli.run : Using seed 39899301
+2021-07-08T02:02:39 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-08T02:02:39 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T02:02:39 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T02:02:39 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T02:02:39 | INFO | mmf.trainers.mmf_trainer : Loading model
+2021-07-08T02:02:42 | INFO | mmf.trainers.mmf_trainer : Loading optimizer
+2021-07-08T02:02:42 | INFO | mmf.trainers.mmf_trainer : Loading metrics
+2021-07-08T02:02:43 | WARNING | mmf : Key coco_caption_processor is not present in registry, returning default value of None
+2021-07-08T02:02:43 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T02:02:43 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T02:02:43 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T02:02:43 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T02:02:43 | INFO | mmf.trainers.mmf_trainer : ===== Model =====
+2021-07-08T02:02:43 | INFO | mmf.trainers.mmf_trainer : BUTD(
+  (word_embedding): Embedding(1197, 300)
+  (image_feature_encoders): ModuleList(
+    (0): FinetuneFasterRcnnFpnFc7(
+      (lc): Linear(in_features=2048, out_features=2048, bias=True)
+    )
+  )
+  (image_feature_embeddings_list): ModuleList(
+    (0): ModuleList(
+      (0): ImageFeatureEmbedding(
+        (image_attention_model): AttentionLayer(
+          (module): TopDownAttention(
+            (combination_layer): ModalCombineLayer(
+              (module): TopDownAttentionLSTM(
+                (fa_image): Linear(in_features=2048, out_features=1024, bias=True)
+                (fa_hidden): Linear(in_features=1024, out_features=1024, bias=True)
+                (top_down_lstm): LSTMCell(3372, 1024)
+                (relu): ReLU()
+                (dropout): Dropout(p=0.5, inplace=False)
+              )
+            )
+            (transform): TransformLayer(
+              (module): LinearTransform(
+                (lc): Linear(in_features=1024, out_features=1, bias=True)
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+  (classifier): ClassifierLayer(
+    (module): LanguageDecoder(
+      (language_lstm): LSTMCell(3072, 1024)
+      (fc): Linear(in_features=1024, out_features=1197, bias=True)
+      (dropout): Dropout(p=0.5, inplace=False)
+    )
+  )
+  (losses): Losses(
+    (losses): ModuleList(
+      (0): MMFLoss(
+        (loss_criterion): CaptionCrossEntropyLoss()
+      )
+    )
+  )
+)
+2021-07-08T02:02:43 | INFO | mmf.utils.general : Total Parameters: 43734040. Trained Parameters: 43734040
+2021-07-08T02:02:43 | INFO | mmf.trainers.core.training_loop : Starting training...
+2021-07-08T02:04:06 | INFO | mmf : Logging to: ./save/train.log
+2021-07-08T02:04:06 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd', 'run_type=train_val'])
+2021-07-08T02:04:06 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-08T02:04:06 | INFO | mmf.utils.general : CUDA Device 0 is: Quadro RTX 6000
+2021-07-08T02:04:06 | INFO | mmf_cli.run : Using seed 6986439
+2021-07-08T02:04:06 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-08T02:04:06 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T02:04:06 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T02:04:06 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T02:04:06 | INFO | mmf.trainers.mmf_trainer : Loading model
+2021-07-08T02:04:10 | INFO | mmf.trainers.mmf_trainer : Loading optimizer
+2021-07-08T02:04:10 | INFO | mmf.trainers.mmf_trainer : Loading metrics
+2021-07-08T02:04:10 | WARNING | mmf : Key coco_caption_processor is not present in registry, returning default value of None
+2021-07-08T02:04:10 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T02:04:10 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T02:04:10 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T02:04:10 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T02:04:10 | INFO | mmf.trainers.mmf_trainer : ===== Model =====
+2021-07-08T02:04:10 | INFO | mmf.trainers.mmf_trainer : BUTD(
+  (word_embedding): Embedding(1197, 300)
+  (image_feature_encoders): ModuleList(
+    (0): FinetuneFasterRcnnFpnFc7(
+      (lc): Linear(in_features=2048, out_features=2048, bias=True)
+    )
+  )
+  (image_feature_embeddings_list): ModuleList(
+    (0): ModuleList(
+      (0): ImageFeatureEmbedding(
+        (image_attention_model): AttentionLayer(
+          (module): TopDownAttention(
+            (combination_layer): ModalCombineLayer(
+              (module): TopDownAttentionLSTM(
+                (fa_image): Linear(in_features=2048, out_features=1024, bias=True)
+                (fa_hidden): Linear(in_features=1024, out_features=1024, bias=True)
+                (top_down_lstm): LSTMCell(3372, 1024)
+                (relu): ReLU()
+                (dropout): Dropout(p=0.5, inplace=False)
+              )
+            )
+            (transform): TransformLayer(
+              (module): LinearTransform(
+                (lc): Linear(in_features=1024, out_features=1, bias=True)
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+  (classifier): ClassifierLayer(
+    (module): LanguageDecoder(
+      (language_lstm): LSTMCell(3072, 1024)
+      (fc): Linear(in_features=1024, out_features=1197, bias=True)
+      (dropout): Dropout(p=0.5, inplace=False)
+    )
+  )
+  (losses): Losses(
+    (losses): ModuleList(
+      (0): MMFLoss(
+        (loss_criterion): CaptionCrossEntropyLoss()
+      )
+    )
+  )
+)
+2021-07-08T02:04:10 | INFO | mmf.utils.general : Total Parameters: 43734040. Trained Parameters: 43734040
+2021-07-08T02:04:10 | INFO | mmf.trainers.core.training_loop : Starting training...
+2021-07-08T02:04:29 | INFO | mmf : Logging to: ./save/train.log
+2021-07-08T02:04:29 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd', 'run_type=train_val'])
+2021-07-08T02:04:29 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-08T02:04:29 | INFO | mmf.utils.general : CUDA Device 0 is: Quadro RTX 6000
+2021-07-08T02:04:29 | INFO | mmf_cli.run : Using seed 29370213
+2021-07-08T02:04:29 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-08T02:04:29 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T02:04:29 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T02:04:29 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T02:04:29 | INFO | mmf.trainers.mmf_trainer : Loading model
+2021-07-08T02:04:32 | INFO | mmf.trainers.mmf_trainer : Loading optimizer
+2021-07-08T02:04:32 | INFO | mmf.trainers.mmf_trainer : Loading metrics
+2021-07-08T02:04:32 | WARNING | mmf : Key coco_caption_processor is not present in registry, returning default value of None
+2021-07-08T02:04:32 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T02:04:32 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T02:04:32 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T02:04:32 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T02:04:32 | INFO | mmf.trainers.mmf_trainer : ===== Model =====
+2021-07-08T02:04:32 | INFO | mmf.trainers.mmf_trainer : BUTD(
+  (word_embedding): Embedding(1197, 300)
+  (image_feature_encoders): ModuleList(
+    (0): FinetuneFasterRcnnFpnFc7(
+      (lc): Linear(in_features=2048, out_features=2048, bias=True)
+    )
+  )
+  (image_feature_embeddings_list): ModuleList(
+    (0): ModuleList(
+      (0): ImageFeatureEmbedding(
+        (image_attention_model): AttentionLayer(
+          (module): TopDownAttention(
+            (combination_layer): ModalCombineLayer(
+              (module): TopDownAttentionLSTM(
+                (fa_image): Linear(in_features=2048, out_features=1024, bias=True)
+                (fa_hidden): Linear(in_features=1024, out_features=1024, bias=True)
+                (top_down_lstm): LSTMCell(3372, 1024)
+                (relu): ReLU()
+                (dropout): Dropout(p=0.5, inplace=False)
+              )
+            )
+            (transform): TransformLayer(
+              (module): LinearTransform(
+                (lc): Linear(in_features=1024, out_features=1, bias=True)
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+  (classifier): ClassifierLayer(
+    (module): LanguageDecoder(
+      (language_lstm): LSTMCell(3072, 1024)
+      (fc): Linear(in_features=1024, out_features=1197, bias=True)
+      (dropout): Dropout(p=0.5, inplace=False)
+    )
+  )
+  (losses): Losses(
+    (losses): ModuleList(
+      (0): MMFLoss(
+        (loss_criterion): CaptionCrossEntropyLoss()
+      )
+    )
+  )
+)
+2021-07-08T02:04:32 | INFO | mmf.utils.general : Total Parameters: 43734040. Trained Parameters: 43734040
+2021-07-08T02:04:32 | INFO | mmf.trainers.core.training_loop : Starting training...
+2021-07-08T02:06:33 | INFO | mmf : Logging to: ./save/train.log
+2021-07-08T02:06:33 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd', 'run_type=train_val'])
+2021-07-08T02:06:33 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-08T02:06:33 | INFO | mmf.utils.general : CUDA Device 0 is: Quadro RTX 6000
+2021-07-08T02:06:33 | INFO | mmf_cli.run : Using seed 33254351
+2021-07-08T02:06:33 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-08T02:06:33 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T02:06:33 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T02:06:33 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T02:06:33 | INFO | mmf.trainers.mmf_trainer : Loading model
+2021-07-08T02:06:36 | INFO | mmf.trainers.mmf_trainer : Loading optimizer
+2021-07-08T02:06:36 | INFO | mmf.trainers.mmf_trainer : Loading metrics
+2021-07-08T02:06:36 | WARNING | mmf : Key coco_caption_processor is not present in registry, returning default value of None
+2021-07-08T02:06:36 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T02:06:36 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T02:06:36 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T02:06:36 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T02:06:36 | INFO | mmf.trainers.mmf_trainer : ===== Model =====
+2021-07-08T02:06:36 | INFO | mmf.trainers.mmf_trainer : BUTD(
+  (word_embedding): Embedding(1197, 300)
+  (image_feature_encoders): ModuleList(
+    (0): FinetuneFasterRcnnFpnFc7(
+      (lc): Linear(in_features=2048, out_features=2048, bias=True)
+    )
+  )
+  (image_feature_embeddings_list): ModuleList(
+    (0): ModuleList(
+      (0): ImageFeatureEmbedding(
+        (image_attention_model): AttentionLayer(
+          (module): TopDownAttention(
+            (combination_layer): ModalCombineLayer(
+              (module): TopDownAttentionLSTM(
+                (fa_image): Linear(in_features=2048, out_features=1024, bias=True)
+                (fa_hidden): Linear(in_features=1024, out_features=1024, bias=True)
+                (top_down_lstm): LSTMCell(3372, 1024)
+                (relu): ReLU()
+                (dropout): Dropout(p=0.5, inplace=False)
+              )
+            )
+            (transform): TransformLayer(
+              (module): LinearTransform(
+                (lc): Linear(in_features=1024, out_features=1, bias=True)
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+  (classifier): ClassifierLayer(
+    (module): LanguageDecoder(
+      (language_lstm): LSTMCell(3072, 1024)
+      (fc): Linear(in_features=1024, out_features=1197, bias=True)
+      (dropout): Dropout(p=0.5, inplace=False)
+    )
+  )
+  (losses): Losses(
+    (losses): ModuleList(
+      (0): MMFLoss(
+        (loss_criterion): CaptionCrossEntropyLoss()
+      )
+    )
+  )
+)
+2021-07-08T02:06:36 | INFO | mmf.utils.general : Total Parameters: 43734040. Trained Parameters: 43734040
+2021-07-08T02:06:36 | INFO | mmf.trainers.core.training_loop : Starting training...
+2021-07-08T02:08:03 | INFO | mmf : Logging to: ./save/train.log
+2021-07-08T02:08:03 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd', 'run_type=train_val'])
+2021-07-08T02:08:03 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-08T02:08:03 | INFO | mmf.utils.general : CUDA Device 0 is: Quadro RTX 6000
+2021-07-08T02:08:03 | INFO | mmf_cli.run : Using seed 3771186
+2021-07-08T02:08:03 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-08T02:08:03 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T02:08:03 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T02:08:03 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T02:08:03 | INFO | mmf.trainers.mmf_trainer : Loading model
+2021-07-08T02:08:06 | INFO | mmf.trainers.mmf_trainer : Loading optimizer
+2021-07-08T02:08:06 | INFO | mmf.trainers.mmf_trainer : Loading metrics
+2021-07-08T02:08:07 | WARNING | mmf : Key coco_caption_processor is not present in registry, returning default value of None
+2021-07-08T02:08:07 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T02:08:07 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:414: UserWarning: No type for scheduler specified even though lr_scheduler is True, setting default to 'Pythia'
+  "No type for scheduler specified even though lr_scheduler is True, "
+
+2021-07-08T02:08:07 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T02:08:07 | WARNING | py.warnings : /home/roboticslab/Documents/MED-VQA/med-vqa/mmf/utils/build.py:420: UserWarning: scheduler attributes has no params defined, defaulting to {}.
+  warnings.warn("scheduler attributes has no params defined, defaulting to {}.")
+
+2021-07-08T02:08:07 | INFO | mmf.trainers.mmf_trainer : ===== Model =====
+2021-07-08T02:08:07 | INFO | mmf.trainers.mmf_trainer : BUTD(
+  (word_embedding): Embedding(1197, 300)
+  (image_feature_encoders): ModuleList(
+    (0): FinetuneFasterRcnnFpnFc7(
+      (lc): Linear(in_features=2048, out_features=2048, bias=True)
+    )
+  )
+  (image_feature_embeddings_list): ModuleList(
+    (0): ModuleList(
+      (0): ImageFeatureEmbedding(
+        (image_attention_model): AttentionLayer(
+          (module): TopDownAttention(
+            (combination_layer): ModalCombineLayer(
+              (module): TopDownAttentionLSTM(
+                (fa_image): Linear(in_features=2048, out_features=1024, bias=True)
+                (fa_hidden): Linear(in_features=1024, out_features=1024, bias=True)
+                (top_down_lstm): LSTMCell(3372, 1024)
+                (relu): ReLU()
+                (dropout): Dropout(p=0.5, inplace=False)
+              )
+            )
+            (transform): TransformLayer(
+              (module): LinearTransform(
+                (lc): Linear(in_features=1024, out_features=1, bias=True)
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+  (classifier): ClassifierLayer(
+    (module): LanguageDecoder(
+      (language_lstm): LSTMCell(3072, 1024)
+      (fc): Linear(in_features=1024, out_features=1197, bias=True)
+      (dropout): Dropout(p=0.5, inplace=False)
+    )
+  )
+  (losses): Losses(
+    (losses): ModuleList(
+      (0): MMFLoss(
+        (loss_criterion): CaptionCrossEntropyLoss()
+      )
+    )
+  )
+)
+2021-07-08T02:08:07 | INFO | mmf.utils.general : Total Parameters: 43734040. Trained Parameters: 43734040
+2021-07-08T02:08:07 | INFO | mmf.trainers.core.training_loop : Starting training...
+2021-07-08T13:29:44 | INFO | mmf : Logging to: ./save/train.log
+2021-07-08T13:29:44 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd', 'run_type=train_val'])
+2021-07-08T13:29:44 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-08T13:29:44 | INFO | mmf.utils.general : CUDA Device 0 is: Quadro RTX 6000
+2021-07-08T13:29:44 | INFO | mmf_cli.run : Using seed 44642956
+2021-07-08T13:29:44 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-08T13:29:44 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T13:29:44 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T13:29:44 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-08T13:29:44 | INFO | mmf.trainers.mmf_trainer : Loading model
+2021-07-09T15:59:18 | INFO | mmf : Logging to: ./save/train.log
+2021-07-09T15:59:18 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-09T15:59:18 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-09T15:59:18 | INFO | mmf.utils.general : CUDA Device 0 is: Quadro RTX 6000
+2021-07-09T15:59:18 | INFO | mmf_cli.run : Using seed 18465168
+2021-07-09T15:59:18 | INFO | mmf.trainers.mmf_trainer : Loading datasets
+2021-07-09T15:59:18 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-09T15:59:18 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-09T15:59:18 | INFO | mmf.datasets.multi_datamodule : Multitasking disabled by default for single dataset training
+2021-07-09T15:59:18 | INFO | mmf.trainers.mmf_trainer : Loading model

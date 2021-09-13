@@ -1,0 +1,6 @@
+2021-07-16T19:15:45 | INFO | mmf : Logging to: ./save/train.log
+2021-07-16T19:15:45 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=/home/roboticslab/Documents/MED-VQA/Configs/hm_dataset_config.yaml', 'model=concat_vl', 'dataset=hateful_memes'])
+2021-07-16T19:15:45 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-16T19:15:45 | INFO | mmf.utils.general : CUDA Device 0 is: Quadro RTX 6000
+2021-07-16T19:15:45 | INFO | mmf_cli.run : Using seed 45573252
+2021-07-16T19:15:45 | INFO | mmf.trainers.mmf_trainer : Loading datasets

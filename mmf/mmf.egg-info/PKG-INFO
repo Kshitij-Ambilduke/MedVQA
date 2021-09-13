@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: mmf
+Version: 1.0.0rc12
+Summary: mmf: a modular framework for vision and language multimodal research.
+Home-page: UNKNOWN
+Author: Facebook AI Research
+Author-email: mmf@fb.com
+License: UNKNOWN
+Description: Models and datasets built on top of MMF.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

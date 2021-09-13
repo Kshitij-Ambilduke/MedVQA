@@ -1,0 +1,5 @@
+2021-07-07T19:20:36 | INFO | mmf : Logging to: ./save/train.log
+2021-07-07T19:20:36 | INFO | mmf_cli.run : Namespace(config_override=None, local_rank=None, opts=['config=projects/butd/configs/coco/defaults.yaml', 'datasets=vqarad', 'model=butd'])
+2021-07-07T19:20:36 | INFO | mmf_cli.run : Torch version: 1.9.0+cu102
+2021-07-07T19:20:36 | INFO | mmf_cli.run : Using seed 36341161
+2021-07-07T19:20:36 | INFO | mmf.trainers.mmf_trainer : Loading datasets
