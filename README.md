@@ -6,7 +6,7 @@ In this repository we have tested 3 VQA models on the ImageCLEF-2019 dataset. Tw
 |Model Name| Accuracy| Number of Epochs|
 |-------|------|-------|
 |[Hierarchical Question-Image Co-attention](https://arxiv.org/abs/1606.00061) | 48.32% | 42 | 
-| MMF Transformer | 51.76 | 30 | 
+| MMF Transformer | 51.76% | 30 | 
 | [MMBT](https://arxiv.org/abs/1909.02950) | 86.78% | 30 | 
 
 ## Test them for yourself !
